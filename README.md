@@ -1,6 +1,6 @@
 # Background-generator
 
-<strong>DEMO:</strong> https://parthajyotibaruah.github.io/Background-generator/
+<strong>DEMO:</strong> https://parthajyotibaruah.github.io/background-generator/
 
 This is a project from <a href="https://www.udemy.com/user/andrei-neagoie/">Andrei Neagoie</a>'s Udemy <a href="https://www.udemy.com/the-complete-web-developer-zero-to-mastery/">course</a>.
 
